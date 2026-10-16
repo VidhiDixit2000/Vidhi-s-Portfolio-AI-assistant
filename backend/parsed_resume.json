@@ -1,0 +1,93 @@
+{
+  "Name": "Vidhi Dixit",
+  "Email": "vidhi2000dixit@gmail.com",
+  "Phone": "+91-9589674818",
+  "TotalExperience_inyears": 3.0,
+  "Skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "Apex",
+    "SOQL",
+    "C",
+    "C++",
+    "HTML",
+    "CSS",
+    "YAML",
+    "FastAPI",
+    "React",
+    "Next.js",
+    "Vite",
+    "SQLAlchemy",
+    "PostgreSQL",
+    "AWS",
+    "Docker",
+    "GitHub Actions",
+    "SFDX",
+    "Change Sets"
+  ],
+  "Experiences": [
+    {
+      "CompanyName": "Cloud SynApps Inc.",
+      "Role": "Software Engineer (Salesforce Developer)",
+      "Duration": "June 2023 – January 2025",
+      "Description": [
+        "Built Salesforce Experience Cloud portal applications with Apex, Lightning Web Components, Flows and process automation.",
+        "Designed and built a secure authentication and user-management service in FastAPI and Python.",
+        "Managed a team of around four to six people and ran fresher training."
+      ],
+      "SkillsUsed": [
+        "Salesforce",
+        "Apex",
+        "FastAPI",
+        "Python",
+        "AWS",
+        "Docker"
+      ]
+    },
+    {
+      "CompanyName": "Blue Flame Labs",
+      "Role": "Technical Consultant",
+      "Duration": "May 2025 – March 2026",
+      "Description": [
+        "Shipped an AI job-matching feature for a recruitment portal that cut manual screening effort by about 70%.",
+        "Delivered storefront enhancements on Salesforce Commerce Cloud.",
+        "Managed a team of around four to six people and led client project teams."
+      ],
+      "SkillsUsed": [
+        "Salesforce",
+        "Commerce Cloud",
+        "AI",
+        "React",
+        "FastAPI",
+        "Python"
+      ]
+    },
+    {
+      "CompanyName": "Independent Work",
+      "Role": "Independent Developer",
+      "Duration": "March 2026 – present",
+      "Description": [
+        "Built Supra Engine Analytics and a personalised AI agent.",
+        "Contributed to open source projects and published technical writing."
+      ],
+      "SkillsUsed": [
+        "FastAPI",
+        "React",
+        "AWS",
+        "AI"
+      ]
+    }
+  ],
+  "project": [
+    "Supra Engine Analytics",
+    "Personalized AI agent (Recruiter Chatbot)",
+    "RAG AI agent on AWS"
+  ],
+  "Certifications": [
+    "Salesforce Certified Platform Developer I",
+    "Salesforce Certified Advanced Administrator",
+    "Salesforce Certified OmniStudio Developer"
+  ]
+}
