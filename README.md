@@ -1,4 +1,4 @@
-# Vidhi Dixit — recruiter chatbot
+# Portfolio AI Assistant
 
 A FastAPI backend (`backend/`) that answers recruiter questions about Vidhi from a
 knowledge base, scores her against a job description, and streams answers as
