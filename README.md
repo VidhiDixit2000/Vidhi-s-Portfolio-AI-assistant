@@ -1,7 +1,7 @@
 # Portfolio AI Assistant
 
-A FastAPI backend (`backend/`) that answers recruiter questions about Vidhi from a
-knowledge base, scores her against a job description, and streams answers as
+A FastAPI backend (`backend/`) that answers recruiter questions about me from a
+knowledge base, scores me against a job description, and streams answers as
 NDJSON. A React front-end lives in `frontend/`.
 
 - `backend/main.py` — HTTP layer (`/health`, `/chat-stream`, `/userchat`, `/set-jd`, `/upload-jd`, `/reset`)
